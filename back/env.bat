@@ -1,0 +1,1 @@
+ $env:FLASK_APP="front_flask_app.py"
